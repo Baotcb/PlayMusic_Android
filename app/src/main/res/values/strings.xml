@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Music</string>
+    <string name="downloaded_image">Downloaded Image</string>
+    <string name="status_ready">Ready to start service</string>
+    <string name="start_service">Start Music Service</string>
+    <string name="stop_service">Stop Music Service</string>
+    <string name="notification_channel_name">Music Playback</string>
+    <string name="notification_channel_desc">Shows music playback status</string>
+    <string name="notification_title">Music Playing</string>
+    <string name="notification_text">Playing music in background</string>
+    <string name="music_playing">Music is playing…</string>
+    <string name="music_stopped">Music stopped</string>
+    <string name="downloading_image">Downloading image…</string>
+    <string name="image_downloaded">Image downloaded successfully</string>
+    <string name="download_failed">Download failed</string>
+    <string name="service_running">Service is running</string>
+</resources>
